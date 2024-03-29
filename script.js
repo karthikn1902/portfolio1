@@ -15,3 +15,7 @@ hamburger.addEventListener('click', function () {
 		menu.style.display = "block"
 	} 
 });
+
+function popup(){
+	alert("Message Sent!");
+}
